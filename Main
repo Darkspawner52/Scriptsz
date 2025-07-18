@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkspawner52/Gg/refs/heads/main/Dupe"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkspawner52/DarkWare/refs/heads/main/Scripts"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkspawner52/Main/refs/heads/main/Script"))()
